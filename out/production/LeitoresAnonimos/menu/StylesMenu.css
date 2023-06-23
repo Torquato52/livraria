@@ -1,0 +1,14 @@
+.button {
+    -fx-min-height: 100;
+    -fx-min-width: 150;
+    -fx-font-size: 15;
+    -fx-background-radius: 15;
+    -fx-text-alignment: center;
+    -fx-faint-focus-color: transparent;
+    -fx-focus-color: rgb(120, 139, 153);
+    -fx-background-color: #00a8e8;
+}
+
+.fundo{
+    -fx-background-color: white;
+}

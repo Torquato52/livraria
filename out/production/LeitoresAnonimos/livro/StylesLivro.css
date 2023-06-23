@@ -1,0 +1,17 @@
+.text-field{
+    -fx-min-width: 500;
+    -fx-min-height: 100;
+    -fx-faint-focus-color: transparent;
+    -fx-focus-color: rgb(120, 139, 153);
+}
+.button{
+    -fx-border-radius: 5;
+    -fx-background-radius: 15;
+    -fx-text-alignment: center;
+    -fx-faint-focus-color: transparent;
+    -fx-focus-color: rgb(120, 139, 153);
+    -fx-background-color: #00a8e8;
+}
+.fundo{
+    -fx-background-color: white;
+}
